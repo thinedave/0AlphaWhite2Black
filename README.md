@@ -10,6 +10,9 @@ This plugin can be easily installed by running Install_ZeroAlphaWhite2Black.bat.
 3. Run Install_ZeroAlphaWhite2Black.bat
 4. [Re]start [Paint.NET](https://getpaint.net)
 
+# Usage
+All you need to do is navigate to Effects>0Alpha White2Black and click it. The plugin will do everything else for you.
+
 
 # Building
 
