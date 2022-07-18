@@ -11,7 +11,11 @@ This plugin can be easily installed by running Install_ZeroAlphaWhite2Black.bat.
 4. [Re]start [Paint.NET](https://getpaint.net)
 
 # Usage
-All you need to do is navigate to Effects>0Alpha White2Black and click it. The plugin will do everything else for you.
+1. Navigate to Effects>0AlphaWhite2Black
+2. If ugly outline color is white, skip to step 4
+3. Change color to change from to the color of the ugly outline
+4. Change color to change to to the color you want (typically black)
+5. Select OK
 
 
 # Building
