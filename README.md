@@ -1,6 +1,6 @@
 # 0AlphaWhite2Black
 
-A plugin made for [Paint.NET](https://getpaint.net). Automatically takes any white pixels with an alpha of 0 and makes them black. This is a solution to a problem that may occur when creating custom textures for your OoT mod. If you see white outlines like the ones shown below, this plugin is for you.
+A plugin made for [Paint.NET](https://getpaint.net). Automatically takes any white pixels with an alpha of 0 and makes them black. This is a solution to a problem that may occur when creating custom textures for your OoT mod. If you see white outlines like this one, this plugin is for you.
 ![](https://github.com/thinedave/0AlphaWhite2Black/blob/main/example.png?raw=true)
 
 # Installation
