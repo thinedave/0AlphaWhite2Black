@@ -16,7 +16,7 @@ This plugin can be easily installed by running Install_ZeroAlphaWhite2Black.bat.
 3. Change color to change from to the color of the ugly outline
 4. Change color to change to to the color you want (typically black)
 5. Select OK  
-![](https://media.discordapp.net/attachments/437302484038451201/998442558957047888/unknown.png)
+![](https://cdn.discordapp.com/attachments/857883927577231373/998445436828405832/unknown.png)
 
 
 # Building
