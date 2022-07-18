@@ -11,9 +11,9 @@ void Render(Surface dst, Surface src, Rectangle rect)
         {
             currentPixel = src[x,y];
 
-            if (currentPixel.R != 0 &&
-            currentPixel.G != 0 &&
-            currentPixel.B != 0 &&
+            if (currentPixel.R == 255 &&
+            currentPixel.G == 255 &&
+            currentPixel.B == 255 &&
             currentPixel.A == 0) {
                 currentPixel.R = 0;
                 currentPixel.G = 0;
